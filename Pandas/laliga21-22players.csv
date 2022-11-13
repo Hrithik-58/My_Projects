@@ -1,0 +1,492 @@
+﻿name,nickname,country,team,position,age,games_played,time_played,goals,goal_assists,headed_goals,left_foot_goals,right_foot_goals,penalties_taken,penalty_goals,penalties_faced,penalties_saved,total_saves,total_passes,Total_successful_passes,total_unsuccessful_passes,unsuccessful_dribbles,successful_dribbles,clean_sheets,total_shots,tackles_lost,tackles_won,yellow_cards,total_red_cards
+Aitor Paredes,Paredes,ES,Athletic Club,Defender,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alejandro Berenguer Remiro,Berenguer,ES,Athletic Club,Forward,27,34,2172,3,6,1,0,2,1,0,0,0,0,2054,1532,522,38,33,5,34,19,26,8,0
+Alex Petxarroman,Petxarroman,ES,Athletic Club,Defender,25,17,401,0,0,0,0,0,0,0,0,0,0,585,468,117,6,3,0,1,3,9,4,0
+Ander Capa,Capa,ES,Athletic Club,Defender,30,1,3,0,0,0,0,0,0,0,0,0,0,5,3,2,0,0,0,1,0,0,0,0
+Ander Iruarrizaga,Iru,ES,Athletic Club,Goalkeeper,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asier Villalibre,Villalibre,ES,Athletic Club,Forward,25,19,538,2,0,0,1,1,0,0,0,0,0,294,206,88,1,4,0,14,1,3,0,0
+Daniel GarcÃ­a Carrillo,Dani GarcÃ­a,ES,Athletic Club,Midfielder,32,32,2190,0,0,0,0,0,0,0,0,0,0,2843,2390,453,2,4,3,8,14,22,9,0
+Daniel Vivian,Vivian,ES,Athletic Club,Defender,23,24,1985,2,1,2,0,0,0,0,0,0,0,2626,2307,319,1,4,7,15,11,21,2,0
+Iker Muniain,Muniain,ES,Athletic Club,Forward,29,35,2802,4,10,0,0,4,3,1,0,0,0,3971,3433,538,39,65,6,31,22,10,3,0
+IÃ±aki Williams,Williams,ES,Athletic Club,Forward,28,38,2786,8,5,0,1,7,1,1,0,0,0,1658,1224,434,28,28,5,69,9,5,4,0
+Jokin Ezkieta,Jokin Ezkieta,ES,Athletic Club,Goalkeeper,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juan Artola,Artola,ES,Athletic Club,Forward,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Julen Agirrezabala,Agirrezabala,ES,Athletic Club,Goalkeeper,21,4,360,0,0,0,0,0,0,0,0,0,15,162,122,40,0,0,1,0,0,0,0,0
+Luis Bilbao,Luis Bilbao,ES,Athletic Club,Forward,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mikel Balenziaga,Balenziaga,ES,Athletic Club,Defender,34,26,2026,0,0,0,0,0,0,0,0,0,0,2150,1764,386,6,6,8,5,9,24,2,0
+Mikel Vesga,Vesga,ES,Athletic Club,Midfielder,29,32,1355,2,0,1,1,0,0,0,0,0,0,1962,1639,323,6,9,1,11,13,14,4,1
+Nicholas Williams,Williams Jr,ES,Athletic Club,Forward,20,34,1325,0,0,0,0,0,0,0,0,0,0,1137,916,221,46,44,0,20,10,10,4,0
+NicolÃ¡s Serrano,Nico Serrano,ES,Athletic Club,Forward,19,14,308,1,0,0,1,0,0,0,0,0,0,306,242,64,3,4,0,6,3,6,0,0
+Oier Zarraga,Zarraga,ES,Athletic Club,Midfielder,23,31,1151,1,0,0,0,1,1,1,0,0,0,1329,1124,205,4,4,0,13,8,5,5,0
+Oihan Sancet,O. Sancet,ES,Athletic Club,Midfielder,22,27,1424,6,4,1,0,5,0,0,0,0,0,1214,1017,197,14,23,0,24,5,7,2,0
+RaÃºl GarcÃ­a,Raul Garcia,ES,Athletic Club,Midfielder,36,35,1812,6,2,1,2,3,1,0,0,0,0,1541,1081,460,3,9,0,33,10,17,4,0
+Unai NÃºÃ±ez,NuÃ±ez,ES,Athletic Club,Defender,25,9,620,0,0,0,0,0,0,0,0,0,0,955,861,94,1,3,0,6,0,4,2,0
+Unai SimÃ³n,Unai Simon,ES,Athletic Club,Goalkeeper,25,34,3060,0,0,0,0,0,0,0,3,0,83,1782,1284,498,0,0,12,0,0,0,3,0
+Unai Vencedor,Vencedor,ES,Athletic Club,Midfielder,21,34,2396,0,0,0,0,0,0,0,0,0,0,3528,2991,537,5,25,3,10,15,11,4,0
+Yeray Ãlvarez,Yeray,ES,Athletic Club,Defender,27,22,1859,0,0,0,0,0,0,0,0,0,0,2821,2454,367,1,2,6,4,10,14,6,0
+Yuri Berchiche,Yuri B.,ES,Athletic Club,Defender,32,14,1015,1,2,0,1,0,0,0,0,0,0,1394,1161,233,3,8,2,5,14,11,3,0
+ÃÃ±igo Lekue,I. Lekue,ES,Athletic Club,Defender,29,25,1927,0,2,0,0,0,0,0,0,0,0,2434,1903,531,16,13,7,2,9,23,3,0
+ÃÃ±igo MartÃ­nez,I. Martinez,ES,Athletic Club,Defender,31,27,2343,3,0,3,0,0,0,0,0,0,0,3270,2766,504,0,2,13,19,15,13,7,2
+Ã“scar De Marcos,De Marcos,ES,Athletic Club,Defender,33,22,1683,1,2,0,0,1,0,0,0,0,0,2401,1914,487,9,4,3,3,13,37,4,0
+Alberto Moreno Rebanal,A.moreno,ES,AtlÃ©tico de Madrid,Midfielder,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Antoine Griezmann,Griezmann,FR,AtlÃ©tico de Madrid,Forward,31,26,1706,3,4,1,1,1,0,0,0,0,0,1862,1580,282,10,19,1,35,16,14,3,0
+Antonio GomÃ­s AlemaÃ±,A.gomis,ES,AtlÃ©tico de Madrid,Goalkeeper,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Benjamin Lecomte,Lecomte,FR,AtlÃ©tico de Madrid,Goalkeeper,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carlos MartÃ­n DomÃ­nguez,C.martÃ­n,ES,AtlÃ©tico de Madrid,Midfielder,20,1,5,0,0,0,0,0,0,0,0,0,0,5,3,2,0,1,0,0,0,0,1,0
+Daniel Wass,Wass,DK,AtlÃ©tico de Madrid,Midfielder,33,1,45,0,0,0,0,0,0,0,0,0,0,49,39,10,0,1,0,0,0,0,1,0
+Felipe Augusto de Almeida Monteiro,Felipe,BR,AtlÃ©tico de Madrid,Defender,33,26,1499,2,1,2,0,0,0,0,0,0,0,2155,1875,280,1,2,1,11,5,15,5,1
+Geoffrey Kondogbia,Kondogbia,CF,AtlÃ©tico de Madrid,Midfielder,29,28,1883,1,2,0,1,0,0,0,0,0,0,2831,2552,279,4,29,4,10,30,44,9,2
+Giuliano Simeone,Giuliano,AR,AtlÃ©tico de Madrid,Forward,19,1,1,0,0,0,0,0,0,0,0,0,0,7,3,4,0,0,0,0,0,0,0,0
+HÃ©ctor Herrera,H. Herrera,MX,AtlÃ©tico de Madrid,Midfielder,32,21,852,0,0,0,0,0,0,0,0,0,0,1850,1645,205,3,16,2,5,8,8,4,0
+Ibrahima Vaniel CÃ¡mara Silva,Ibra,ES,AtlÃ©tico de Madrid,Defender,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jan Oblak,Oblak,SI,AtlÃ©tico de Madrid,Goalkeeper,29,38,3420,0,0,0,0,0,0,0,8,1,66,2158,1256,902,0,2,12,1,0,0,1,0
+Javier Serrano MartÃ­nez,J.serrano,ES,AtlÃ©tico de Madrid,Midfielder,19,5,66,0,0,0,0,0,0,0,0,0,0,103,87,16,1,0,0,0,2,1,1,1
+Joan Rojas,Rojas,ES,AtlÃ©tico de Madrid,Defender,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JosÃ© GimÃ©nez,J. M. GimÃ©nez,UY,AtlÃ©tico de Madrid,Defender,27,24,2046,1,1,1,0,0,0,0,0,0,0,2631,2422,209,4,8,9,18,6,12,8,0
+JoÃ£o FÃ©lix Sequeira,JoÃ£o FÃ©lix,PT,AtlÃ©tico de Madrid,Forward,23,24,1264,8,4,1,1,6,0,0,0,0,0,1155,930,225,21,31,0,32,3,2,1,1
+Jorge ResurrecciÃ³n,Koke,ES,AtlÃ©tico de Madrid,Midfielder,30,31,2509,1,2,0,0,1,0,0,0,0,0,4942,4448,494,5,13,8,10,25,30,6,0
+Luis SuÃ¡rez,SuÃ¡rez,UY,AtlÃ©tico de Madrid,Forward,35,35,1835,11,2,3,3,5,3,2,0,0,0,1312,1049,263,17,6,0,49,3,5,7,0
+Manuel Lama,Lama,ES,AtlÃ©tico de Madrid,Defender,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marco Moreno,Marco,ES,AtlÃ©tico de Madrid,Defender,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcos Llorente,M. Llorente,ES,AtlÃ©tico de Madrid,Midfielder,27,29,2455,0,2,0,0,0,0,0,0,0,0,3170,2779,391,11,19,5,11,28,23,5,0
+Mario Hermoso,M. Hermoso,ES,AtlÃ©tico de Madrid,Defender,27,26,1868,2,1,0,2,0,0,0,0,0,0,3396,3069,327,3,8,5,13,15,15,6,1
+Matheus Santos Carneiro Da Cunha,Cunha,BR,AtlÃ©tico de Madrid,Forward,23,29,1052,6,4,0,1,5,0,0,0,0,0,555,431,124,5,7,0,30,7,12,3,0
+Reinildo Isnard Mandava,Reinildo,MZ,AtlÃ©tico de Madrid,Defender,28,17,1298,0,0,0,0,0,0,0,0,0,0,1651,1445,206,2,5,4,2,20,25,4,0
+Renan Augusto Lodi dos Santos,Renan Lodi,BR,AtlÃ©tico de Madrid,Defender,24,29,1174,2,2,0,2,0,0,0,0,0,0,1412,1193,219,14,17,1,9,13,18,5,0
+Rodrigo de Paul,R. De Paul,AR,AtlÃ©tico de Madrid,Midfielder,28,36,2154,3,1,0,0,3,0,0,0,0,0,3674,3147,527,13,25,4,17,25,30,7,0
+Sergio Diez RoldÃ¡n,Sergio DÃ­ez,ES,AtlÃ©tico de Madrid,Defender,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sime Vrsaljko,Vrsaljko,HR,AtlÃ©tico de Madrid,Defender,30,21,908,1,2,0,0,1,0,0,0,0,0,1305,1058,247,2,5,3,4,10,17,4,0
+Stefan Savic,SaviÄ‡,ME,AtlÃ©tico de Madrid,Defender,31,28,2440,0,0,0,0,0,0,0,0,0,0,3855,3368,487,1,8,11,14,26,20,12,0
+Thomas Lemar,Lemar,FR,AtlÃ©tico de Madrid,Midfielder,27,24,1445,4,5,1,2,1,0,0,0,0,0,2004,1738,266,23,33,2,20,10,14,2,0
+Yannick Carrasco,Carrasco,BE,AtlÃ©tico de Madrid,Midfielder,29,34,2589,6,6,0,2,4,2,2,0,0,0,2970,2483,487,48,88,3,33,15,19,5,0
+Ãngel Correa,Correa,AR,AtlÃ©tico de Madrid,Forward,27,36,1856,12,5,1,2,9,0,0,0,0,0,1676,1365,311,23,32,1,33,8,8,3,1
+Ante Budimir,Budimir,HR,CA Osasuna,Forward,31,28,1742,8,2,1,5,2,2,2,0,0,0,877,584,293,20,11,1,40,14,10,3,0
+Aridane HernÃ¡ndez,Aridane,ES,CA Osasuna,Defender,33,15,1159,0,0,0,0,0,0,0,0,0,0,1494,1276,218,1,2,3,2,3,9,1,0
+IvÃ¡n MartÃ­nez GonzÃ¡lvez,Barbero,ES,CA Osasuna,Forward,24,6,16,0,0,0,0,0,0,0,0,0,0,28,20,8,0,0,0,0,0,0,0,0
+Ezequiel Ãvila,Chimy Avila,AR,CA Osasuna,Forward,28,36,1873,6,1,1,2,3,1,1,0,0,0,1273,847,426,14,18,0,50,10,7,7,1
+JosÃ© Ãngel ValdÃ©s DÃ­az,Cote,ES,CA Osasuna,Defender,33,23,1084,1,1,0,1,0,0,0,0,0,0,1718,1428,290,9,20,1,6,7,13,2,1
+Darko Brasanac,Darko,RS,CA Osasuna,Midfielder,30,35,2412,1,2,0,1,0,0,0,0,0,0,2400,1966,434,12,15,4,9,13,22,9,0
+DarÃ­o Ramos,Dario,ES,CA Osasuna,Goalkeeper,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+David GarcÃ­a,David GarcÃ­a,ES,CA Osasuna,Defender,28,35,3105,4,0,4,0,0,0,0,0,0,0,4061,3477,584,1,3,12,26,14,14,8,0
+Iker Benito,I. Benito,ES,CA Osasuna,Forward,20,4,116,0,0,0,0,0,0,0,0,0,0,68,55,13,4,2,0,3,1,1,1,0
+IÃ±igo PÃ©rez,IÃ±igo Perez,ES,CA Osasuna,Midfielder,34,10,334,1,0,0,1,0,0,0,0,0,0,355,270,85,3,0,0,2,1,2,0,0
+Javier MartÃ­nez,Javi Martinez,ES,CA Osasuna,Midfielder,22,26,868,1,1,0,0,1,0,0,0,0,0,1027,842,185,5,11,0,8,7,14,1,0
+JesÃºs Areso,Areso,ES,CA Osasuna,Defender,23,3,188,0,0,0,0,0,0,0,0,0,0,110,96,14,0,0,0,0,0,3,1,0
+Jon Moncayola,Moncayola,ES,CA Osasuna,Midfielder,24,36,2921,2,3,0,0,2,0,0,0,0,0,3699,3170,529,6,13,5,33,20,20,3,0
+JonÃ¡s Ramalho,Ramalho,AO,CA Osasuna,Defender,29,3,245,0,0,0,0,0,0,0,0,0,0,307,258,49,2,0,1,1,2,2,0,0
+Juan Cruz Ãlvaro Armado,Juan Cruz,ES,CA Osasuna,Defender,30,23,1934,0,0,0,0,0,0,0,0,0,0,2478,2171,307,3,10,6,2,7,21,4,0
+Juan PÃ©rez,Juan Perez,ES,CA Osasuna,Goalkeeper,26,2,180,0,0,0,0,0,0,0,0,0,2,79,37,42,0,0,0,0,0,0,0,0
+Enrique Barja Alfonso,Kike Barja,ES,CA Osasuna,Forward,25,21,863,2,0,1,1,0,0,0,0,0,0,898,708,190,23,34,0,11,4,11,2,0
+Enrique GarcÃ­a MartÃ­nez,Kike G.,ES,CA Osasuna,Forward,32,33,1857,5,1,1,0,4,1,1,0,0,0,1310,979,331,22,13,2,43,4,7,2,0
+Lucas TorrÃ³,TorrÃ³,ES,CA Osasuna,Midfielder,28,33,2732,1,0,0,0,1,0,0,0,0,0,3532,2959,573,3,22,10,23,31,40,10,0
+Manuel SÃ¡nchez,M. SÃ¡nchez,ES,CA Osasuna,Defender,22,33,2258,1,3,1,0,0,0,0,0,0,0,2424,1942,482,21,24,7,4,38,34,5,0
+Ignacio Vidal Miralles,Nacho Vidal,ES,CA Osasuna,Defender,27,35,2906,0,1,0,0,0,0,0,0,0,0,3004,2312,692,25,23,10,12,36,47,9,0
+Oier Sanjurjo,Oier,ES,CA Osasuna,Midfielder,33,25,750,1,0,1,0,0,0,0,0,0,0,852,671,181,1,2,0,8,4,6,3,0
+Pau MartÃ­nez,Pau M.,ES,CA Osasuna,Forward,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roberto Torres,R. Torres,ES,CA Osasuna,Midfielder,33,28,798,2,2,0,0,2,2,2,0,0,0,1002,729,273,7,5,0,11,3,4,3,0
+RubÃ©n GarcÃ­a,RubÃ©n GarcÃ­a,ES,CA Osasuna,Forward,29,37,2395,1,6,0,1,0,2,0,0,0,0,3033,2441,592,23,24,1,24,17,26,1,0
+Sergio Herrera,S. Herrera,ES,CA Osasuna,Goalkeeper,29,36,3240,0,0,0,0,0,0,0,7,3,101,2464,1488,976,0,3,12,0,1,2,3,0
+Unai Dufur,Unai Dufur,ES,CA Osasuna,Midfielder,23,1,90,0,0,0,0,0,0,0,0,0,0,133,105,28,0,0,0,1,0,0,0,0
+Unai GarcÃ­a,Unai GarcÃ­a,ES,CA Osasuna,Defender,30,18,1407,0,0,0,0,0,0,0,0,0,0,1440,1169,271,1,3,4,5,9,12,5,0
+Yoel RamÃ­rez,Yoel R.,ES,CA Osasuna,Goalkeeper,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alberto Perea,A. Perea,ES,CÃ¡diz CF,Midfielder,31,18,775,0,1,0,0,0,0,0,0,0,0,921,761,160,24,29,0,9,10,9,2,0
+Alfonso Espino,A. Espino,UY,CÃ¡diz CF,Defender,30,37,3329,2,2,0,2,0,0,0,0,0,0,3484,2458,1026,23,24,12,24,44,63,6,0
+Anthony Lozano,Lozano,HN,CÃ¡diz CF,Forward,29,31,1677,7,2,1,3,3,0,0,0,0,0,692,501,191,23,36,0,40,4,4,8,0
+Carlos Akapo MartÃ­nez,Akapo,GQ,CÃ¡diz CF,Defender,29,25,1847,0,0,0,0,0,0,0,0,0,0,1806,1455,351,9,12,5,8,12,31,4,0
+David Gil,David Gil,ES,CÃ¡diz CF,Goalkeeper,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rafael JimÃ©nez Jarque,Fali,ES,CÃ¡diz CF,Defender,29,28,1810,0,2,0,0,0,0,0,0,0,0,1828,1509,319,0,1,2,10,13,19,6,0
+Federico San Emeterio DÃ­az,Fede S.,ES,CÃ¡diz CF,Midfielder,25,12,836,0,0,0,0,0,0,0,0,0,0,971,839,132,2,0,1,0,11,5,3,0
+Florin Andone,Andone,RO,CÃ¡diz CF,Forward,29,5,173,0,0,0,0,0,0,0,0,0,0,95,69,26,0,2,0,3,0,1,1,0
+IvÃ¡n Alejo,I. Alejo,ES,CÃ¡diz CF,Midfielder,27,20,1068,2,2,0,0,2,0,0,0,0,0,708,510,198,28,15,1,9,18,15,7,0
+IvÃ¡n Chapela,Chapela,ES,CÃ¡diz CF,Midfielder,23,9,400,0,0,0,0,0,0,0,0,0,0,214,156,58,2,3,0,2,2,2,0,0
+Isaac CarcelÃ©n,Iza,ES,CÃ¡diz CF,Defender,29,25,1545,0,1,0,0,0,0,0,0,0,0,1594,1305,289,13,11,3,8,14,29,2,0
+Jens JÃ¸nsson,JÃ¸nsson,DK,CÃ¡diz CF,Midfielder,29,22,1312,0,1,0,0,0,0,0,0,0,0,914,754,160,2,8,0,5,11,29,3,0
+JeremÃ­as Ledesma,Ledesma,AR,CÃ¡diz CF,Goalkeeper,29,38,3420,0,0,0,0,0,0,0,13,2,120,2299,1211,1088,0,2,13,1,2,1,4,0
+JosÃ© MarÃ­a MartÃ­n-Bejarano Serrano,Jose Mari,ES,CÃ¡diz CF,Midfielder,34,11,383,0,0,0,0,0,0,0,0,0,0,524,463,61,0,1,0,4,7,7,1,1
+Juan Torres Ruiz,Juan Cala,ES,CÃ¡diz CF,Defender,32,14,945,0,0,0,0,0,0,0,0,0,0,784,632,152,0,1,2,5,5,4,7,1
+Juan Flere,Juan Flere,AR,CÃ¡diz CF,Goalkeeper,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucas PÃ©rez,Lucas,ES,CÃ¡diz CF,Forward,34,15,1060,3,2,0,2,1,0,0,0,0,0,923,758,165,7,5,1,10,0,3,1,0
+Luis HernÃ¡ndez,Luis HernÃ¡ndez,ES,CÃ¡diz CF,Defender,33,16,1365,0,0,0,0,0,0,0,0,0,0,1972,1749,223,0,0,8,6,4,5,5,0
+Oussama Idrissi,Idrissi,MA,CÃ¡diz CF,Forward,26,12,908,1,1,0,0,1,0,0,0,0,0,956,803,153,19,23,1,17,4,4,2,0
+RaÃºl Parra,RaÃºl Parra,ES,CÃ¡diz CF,Defender,22,2,88,0,0,0,0,0,0,0,0,0,0,63,41,22,1,0,0,0,1,1,0,0
+RubÃ©n Alcaraz,R. Alcaraz,ES,CÃ¡diz CF,Midfielder,31,14,1105,2,0,1,1,0,0,0,0,0,0,1825,1622,203,6,11,5,17,21,20,7,0
+RubÃ©n Sobrino,Sobrino,ES,CÃ¡diz CF,Forward,30,33,1856,4,1,1,0,3,0,0,0,0,0,1299,1038,261,23,33,4,27,11,17,3,0
+Salvador SÃ¡nchez Ponce,SÃ¡nchez,ES,CÃ¡diz CF,Midfielder,31,23,1400,2,1,0,0,2,1,0,0,0,0,811,577,234,7,9,2,14,10,10,1,1
+Santiago Arzamendia,Arzamendia,PY,CÃ¡diz CF,Defender,25,14,462,1,0,0,1,0,0,0,0,0,0,377,272,105,7,3,1,5,8,6,2,0
+TomÃ¡s AlarcÃ³n,TomÃ¡s AlarcÃ³n,CL,CÃ¡diz CF,Midfielder,23,23,1423,0,1,0,0,0,0,0,0,0,0,1432,1142,290,4,4,2,13,11,20,5,0
+Varazdat Haroyan,Haroyan,AM,CÃ¡diz CF,Defender,30,17,1437,1,0,0,0,1,0,0,0,0,0,1178,979,199,1,3,3,3,10,21,9,0
+Victor Wehbi Aznar Ussen,Victor Aznar,BR,CÃ¡diz CF,Goalkeeper,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Victor Chust,Chust,ES,CÃ¡diz CF,Defender,22,25,1829,0,0,0,0,0,0,0,0,0,0,2246,1994,252,1,4,7,6,9,10,2,0
+Alejandro FernÃ¡ndez Iglesias,Alex,ES,CÃ¡diz CF,Midfielder,30,32,2051,3,2,1,1,1,2,1,0,0,0,2738,2332,406,13,9,5,13,16,31,2,0
+Ãlvaro Negredo,A. Negredo,ES,CÃ¡diz CF,Forward,37,34,2157,7,2,3,4,0,3,2,0,0,0,1347,919,428,13,21,5,57,2,3,3,0
+Abdessamad Ezzalzouli,Abde,MA,FC Barcelona,Forward,20,10,581,1,0,0,0,1,0,0,0,0,0,478,385,93,25,34,0,10,8,9,4,0
+Adama TraorÃ©,Adama,ES,FC Barcelona,Forward,26,11,378,0,2,0,0,0,0,0,0,0,0,403,338,65,11,24,0,7,2,2,0,0
+Anssumane Fati Vieira,Ansu Fati,ES,FC Barcelona,Forward,20,10,331,4,0,0,0,4,0,0,0,0,0,434,386,48,10,4,0,13,1,2,0,0
+Arnau Comas,Arnau Comas,ES,FC Barcelona,Defender,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arnau Tenas,Arnau Tenas,ES,FC Barcelona,Goalkeeper,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alejandro Balde MartÃ­nez,Balde,ES,FC Barcelona,Defender,19,5,187,0,0,0,0,0,0,0,0,0,0,415,399,16,4,1,0,1,1,1,0,0
+ClÃ©ment Lenglet,Lenglet,FR,FC Barcelona,Defender,27,21,818,0,1,0,0,0,0,0,0,0,0,2355,2208,147,1,1,1,1,9,11,4,0
+Daniel Alves da Silva,Dani Alves,BR,FC Barcelona,Defender,39,14,1103,1,3,0,0,1,0,0,0,0,0,2685,2413,272,0,12,4,5,11,19,2,1
+Eric GarcÃ­a,Eric,ES,FC Barcelona,Defender,21,26,2041,0,0,0,0,0,0,0,0,0,0,4861,4631,230,1,2,5,4,9,18,5,1
+Estanislau Pedrola Fortuny,Estanis,ES,FC Barcelona,Forward,19,1,10,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0
+Ferran JutglÃ ,Ferran,ES,FC Barcelona,Forward,23,6,303,1,0,1,0,0,0,0,0,0,0,322,284,38,3,2,1,9,1,1,1,0
+Ferran Torres,Ferran,ES,FC Barcelona,Midfielder,23,18,1417,4,4,0,0,4,1,1,0,0,0,1621,1438,183,24,13,5,40,5,5,1,0
+Frenkie de Jong,F. De Jong,NL,FC Barcelona,Midfielder,25,32,2486,3,3,0,1,2,0,0,0,0,0,4787,4477,310,9,51,4,17,16,19,5,1
+Pablo MartÃ­n PÃ¡ez,Gavi,ES,FC Barcelona,Midfielder,18,34,2329,2,5,1,0,1,0,0,0,0,0,3501,3205,296,33,53,3,22,20,18,9,1
+Gerard PiquÃ©,PiquÃ©,ES,FC Barcelona,Defender,35,27,2095,1,0,1,0,0,0,0,0,0,0,4814,4478,336,0,6,8,14,10,12,8,1
+Guillem Jaime,Guillem Jaime,ES,FC Barcelona,Defender,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ilias Akhomach,Ilias,ES,FC Barcelona,Forward,18,2,125,0,0,0,0,0,0,0,0,0,0,147,131,16,2,1,0,2,2,0,0,0
+Ignacio PeÃ±a Sotorres,IÃ±aki PeÃ±a,ES,FC Barcelona,Goalkeeper,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alejandro Orellana GÃ³mez,Jandro,ES,FC Barcelona,Midfielder,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jordi Alba,Jordi Alba,ES,FC Barcelona,Defender,33,30,2648,2,10,0,2,0,0,0,0,0,0,6897,6157,740,16,6,4,22,13,34,11,0
+Lazar Carevic,Lazar Carevic,ME,FC Barcelona,Goalkeeper,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucas De Vega Lima,L.de Vega,BR,FC Barcelona,Forward,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luuk de Jong,De Jong,NL,FC Barcelona,Forward,32,21,643,6,0,5,0,1,0,0,0,0,0,485,383,102,1,3,1,22,2,7,1,0
+Marc-AndrÃ© ter Stegen,Ter Stegen,DE,FC Barcelona,Goalkeeper,30,35,3150,0,0,0,0,0,0,0,3,1,76,3011,2693,318,0,2,11,0,0,0,3,0
+Martin Braithwaite,Braithwaite,DK,FC Barcelona,Forward,31,4,237,2,1,1,0,1,0,0,0,0,0,152,130,22,1,2,0,4,0,1,0,0
+Memphis Depay,Memphis,NL,FC Barcelona,Forward,28,28,1847,12,2,1,1,10,5,4,0,0,0,2338,1960,378,29,45,3,52,6,4,3,0
+Mika MÃ¡rmol,Mika Marmol,ES,FC Barcelona,Defender,21,1,1,0,0,0,0,0,0,0,0,0,0,14,12,2,0,0,0,0,0,0,0,0
+Norberto Murara Neto,Neto,BR,FC Barcelona,Goalkeeper,33,3,270,0,0,0,0,0,0,0,0,0,10,286,240,46,0,0,0,0,0,0,0,0
+NicolÃ¡s GonzÃ¡lez Iglesias,Nico,ES,FC Barcelona,Midfielder,20,27,1109,2,1,0,0,2,0,0,0,0,0,1949,1810,139,9,34,1,11,11,20,6,0
+Ousmane DembÃ©lÃ©,O. DembÃ©lÃ©,FR,FC Barcelona,Forward,25,21,1411,1,13,0,1,0,0,0,0,0,0,2029,1706,323,31,59,2,37,8,16,3,0
+Pedro GonzÃ¡lez LÃ³pez,Pedri,ES,FC Barcelona,Midfielder,19,12,888,3,1,0,0,3,0,0,0,0,0,1672,1505,167,4,15,2,9,8,12,0,0
+Pierre-Emerick Aubameyang,Aubameyang,GA,FC Barcelona,Forward,33,17,1092,11,1,3,3,4,0,0,0,0,0,627,508,119,2,4,0,31,0,2,0,0
+Ricard Puig MartÃ­,Riqui Puig,ES,FC Barcelona,Forward,23,15,474,1,0,0,0,1,0,0,0,0,0,1309,1242,67,3,5,2,5,3,3,0,0
+Ronald AraÃºjo,R. Araujo,UY,FC Barcelona,Defender,23,30,2270,4,0,3,0,1,0,0,0,0,0,4625,4305,320,2,6,6,15,18,23,6,0
+Samuel Umtiti,Umtiti,FR,FC Barcelona,Defender,28,1,90,0,0,0,0,0,0,0,0,0,0,134,122,12,0,0,0,0,0,2,1,0
+Sergi Roberto,S. Roberto,ES,FC Barcelona,Defender,30,9,399,2,1,0,1,1,0,0,0,0,0,697,651,46,0,3,0,4,4,1,1,0
+Sergio Busquets,Sergio,ES,FC Barcelona,Midfielder,34,36,3202,2,0,0,1,1,0,0,0,0,0,7879,7190,689,5,21,8,10,44,49,12,0
+SergiÃ±o Dest,Dest,US,FC Barcelona,Defender,22,21,1514,0,3,0,0,0,0,0,0,0,0,2434,2258,176,29,37,2,11,17,15,2,0
+Ãlvaro Sanz,Alvaro Sanz,ES,FC Barcelona,Midfielder,21,2,27,0,0,0,0,0,0,0,0,0,0,34,30,4,1,0,0,0,0,0,0,0
+Ã“scar Mingueza,Mingueza,ES,FC Barcelona,Defender,23,19,891,0,1,0,0,0,0,0,0,0,0,1916,1753,163,1,6,2,2,14,11,2,0
+Borja Mayoral,B. Mayoral,ES,Getafe CF,Forward,25,18,1046,6,1,0,2,4,1,1,0,0,0,682,544,138,15,14,0,10,2,5,3,0
+Carles AleÃ±Ã¡,AleÃ±Ã¡,ES,Getafe CF,Midfielder,24,33,2339,1,2,0,1,0,0,0,0,0,0,2339,2004,335,18,17,4,31,8,19,6,1
+Diego Trueba Chinchurreta,Chinchu,ES,Getafe CF,Defender,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DamiÃ¡n SuÃ¡rez,DamiÃ¡n,UY,Getafe CF,Defender,34,35,2720,0,3,0,0,0,0,0,0,0,0,2905,2208,697,27,15,9,13,27,47,13,0
+David Soria,David Soria,ES,Getafe CF,Goalkeeper,29,38,3415,0,0,0,0,0,0,0,4,1,94,2409,1351,1058,0,0,13,0,1,0,4,0
+Diego Conde,Diego Conde,ES,Getafe CF,Goalkeeper,24,1,5,0,0,0,0,0,0,0,0,0,0,12,0,12,0,0,0,0,0,0,0,0
+Diego LÃ³pez,Diego,ES,Getafe CF,Midfielder,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DjenÃ© Dakonam,Djene,TG,Getafe CF,Defender,30,35,3117,0,1,0,0,0,0,0,0,0,0,3655,3043,612,0,18,13,2,18,26,11,1
+Enes Ãœnal,Enes Ãœnal,TR,Getafe CF,Forward,25,37,2809,16,1,4,1,11,4,2,0,0,0,1641,1142,499,23,25,7,62,15,22,8,0
+Erick Cabaco,Cabaco,UY,Getafe CF,Defender,27,10,403,0,1,0,0,0,0,0,0,0,0,447,332,115,0,0,0,1,1,1,3,0
+Florentino Ibrain Morris LuÃ­s,Florentino,PT,Getafe CF,Midfielder,23,22,984,0,1,0,0,0,0,0,0,0,0,1201,1017,184,4,7,1,2,17,25,2,0
+GastÃ³n Ãlvarez,Gaston,UY,Getafe CF,Defender,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gonzalo Villar,G. Villar,ES,Getafe CF,Midfielder,24,10,291,0,1,0,0,0,0,0,0,0,0,388,345,43,0,8,0,2,2,3,0,0
+Jaime Mata,Mata,ES,Getafe CF,Forward,34,22,660,1,0,0,0,1,0,0,0,0,0,521,390,131,5,4,0,8,2,5,7,0
+Jakub Jankto,Jankto,CZ,Getafe CF,Midfielder,26,14,584,0,2,0,0,0,0,0,0,0,0,529,396,133,2,4,0,2,4,7,1,1
+John Patrick,J. Patrick,IE,Getafe CF,Midfielder,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan Silva,J. Silva,AR,Getafe CF,Defender,28,9,221,0,0,0,0,0,0,0,0,0,0,203,150,53,0,1,0,1,2,8,4,0
+Jorge Cuenca,J. Cuenca,ES,Getafe CF,Defender,22,32,2686,1,0,1,0,0,0,0,0,0,0,2866,2174,692,3,3,11,14,14,32,6,2
+Juan Antonio Iglesias,Iglesias,ES,Getafe CF,Defender,24,20,709,0,1,0,0,0,0,0,0,0,0,533,313,220,4,5,0,4,9,10,1,0
+MathÃ­as Olivera,Olivera,UY,Getafe CF,Defender,25,32,2807,1,3,1,0,0,0,0,0,0,0,2903,2258,645,27,27,13,19,32,47,10,0
+Mauro Arambarri,M. Arambarri,UY,Getafe CF,Midfielder,27,31,2667,0,5,0,0,0,0,0,0,0,0,3253,2669,584,18,32,12,29,25,37,13,0
+Nemanja Maksimovic,Maksimovic,RS,Getafe CF,Midfielder,27,35,2943,1,1,0,0,1,0,0,0,0,0,2318,1935,383,6,10,8,22,24,32,4,0
+Okay Yokuslu,Okay,TR,Getafe CF,Midfielder,28,11,463,0,0,0,0,0,0,0,0,0,0,542,462,80,0,5,3,4,1,8,1,0
+RubÃ©n YÃ¡Ã±ez,R. YÃ¡Ã±ez,ES,Getafe CF,Goalkeeper,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sandro RamÃ­rez,Sandro,ES,Getafe CF,Forward,27,29,1471,3,0,0,1,2,0,0,0,0,0,977,799,178,31,13,0,34,4,3,7,0
+Stefan Mitrovic,Mitrovic,RS,Getafe CF,Defender,32,32,2670,0,0,0,0,0,0,0,0,0,0,2477,2091,386,0,2,10,4,8,8,8,1
+VÃ­ctor MachÃ­n PÃ©rez,Vitolo,ES,Getafe CF,Forward,33,7,216,0,0,0,0,0,0,0,0,0,0,297,253,44,4,5,0,0,1,2,0,0
+Ãngel Algobia,Algobia,ES,Getafe CF,Midfielder,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ã“scar RodrÃ­guez,Ã“scar,ES,Getafe CF,Midfielder,24,18,943,0,1,0,0,0,0,0,0,0,0,1098,907,191,9,10,0,19,5,11,3,0
+AarÃ³n Escandell,AarÃ³n,ES,Granada CF,Goalkeeper,27,4,283,0,0,0,0,0,0,0,2,0,10,251,139,112,0,0,1,0,0,0,1,1
+Alberto Soro,Soro,ES,Granada CF,Midfielder,23,16,575,0,0,0,0,0,0,0,0,0,0,450,358,92,5,6,0,7,2,10,0,0
+JosÃ© Antonio RodrÃ­guez DÃ­az,Antonio Puertas,ES,Granada CF,Midfielder,30,33,2270,6,1,1,4,1,0,0,0,0,0,1710,1338,372,25,31,1,24,14,20,4,0
+Bryan Zaragoza,Bryan,ES,Granada CF,Midfielder,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carlos Bacca,Bacca,CO,Granada CF,Forward,36,17,508,0,1,0,0,0,0,0,0,0,0,246,178,68,4,7,0,6,0,4,3,0
+Carlos Neva,C. Neva,ES,Granada CF,Defender,26,26,2115,0,0,0,0,0,0,0,0,0,0,1791,1375,416,7,9,5,5,12,19,1,0
+Cheikh Kane Sarr,Kane Sarr,SN,Granada CF,Goalkeeper,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Daniel Raba AntolÃ­n,Dani Raba,ES,Granada CF,Forward,27,2,24,0,0,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,2,0,0
+Darwin MachÃ­s,D. Machis,VE,Granada CF,Forward,29,25,1381,4,2,0,1,3,0,0,0,0,0,1018,765,253,26,34,1,26,10,13,2,0
+Domingos de Sousa Coutinho Meneses Duarte,Domingos D.,PT,Granada CF,Defender,27,21,1689,1,0,1,0,0,0,0,0,0,0,2001,1668,333,1,2,4,4,4,14,7,1
+GermÃ¡n SÃ¡nchez,GermÃ¡n,ES,Granada CF,Defender,35,32,2296,2,1,2,0,0,0,0,0,0,0,2829,2298,531,2,0,3,8,8,19,9,1
+Ismael Ruiz,Isma Ruiz,ES,Granada CF,Midfielder,21,8,282,0,0,0,0,0,0,0,0,0,0,350,309,41,0,2,0,3,2,1,1,0
+Jorge Molina,Molina,ES,Granada CF,Forward,40,35,1957,10,5,1,3,6,1,0,0,0,0,1338,969,369,10,7,3,38,2,2,2,0
+Luis Milla,L. Milla,ES,Granada CF,Midfielder,28,34,2785,3,3,0,0,3,3,3,0,0,0,3803,3279,524,10,28,4,15,30,29,4,0
+Luis SuÃ¡rez,L. SuÃ¡rez,CO,Granada CF,Forward,24,37,2855,8,4,0,1,7,1,0,0,0,0,1655,1219,436,35,44,2,60,12,14,6,0
+LuÃ­s Manuel Arantes Maximiano,Maximiano,PT,Granada CF,Goalkeeper,23,35,3137,0,0,0,0,0,0,0,7,2,127,2285,1221,1064,0,2,7,0,2,1,2,0
+MatÃ­as Arezo,M. Arezo,UY,Granada CF,Forward,19,8,156,0,0,0,0,0,0,0,0,0,0,86,50,36,3,2,0,4,2,3,1,0
+Maxime Gonalons,Gonalons,FR,Granada CF,Midfielder,33,25,1555,0,2,0,0,0,0,0,0,0,0,1841,1633,208,7,14,1,7,15,28,6,0
+Miguel Ãngel Brau,Brau,ES,Granada CF,Defender,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Myrto Uzuni,Uzuni,AL,Granada CF,Midfielder,27,15,857,1,1,0,1,0,0,0,0,0,0,524,405,119,13,9,0,11,3,4,4,0
+Njegos Petrovic,Nj. Petrovic,RS,Granada CF,Midfielder,23,15,917,0,1,0,0,0,0,0,0,0,0,927,790,137,6,10,1,5,13,11,5,0
+JosÃ© Sanchez,Pepe,ES,Granada CF,Defender,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JoaquÃ­n JosÃ© MarÃ­n Ruiz,Quini,ES,Granada CF,Defender,33,32,2304,0,1,0,0,0,0,0,0,0,0,1881,1409,472,16,17,5,15,39,34,11,0
+RaÃºl Torrente,Torrente,ES,Granada CF,Defender,21,18,1282,0,0,0,0,0,0,0,0,0,0,1619,1287,332,0,1,2,2,10,21,5,0
+RubÃ©n Rochina,Rochina,ES,Granada CF,Midfielder,31,15,739,1,3,0,1,0,0,0,0,0,0,943,732,211,5,14,2,10,8,13,3,0
+Santiago Arias,Arias,CO,Granada CF,Defender,30,12,433,1,0,0,0,1,0,0,0,0,0,437,359,78,4,3,0,3,7,5,1,0
+Sergio Barcia,S. Barcia,ES,Granada CF,Defender,21,1,77,0,0,0,0,0,0,0,0,0,0,52,24,28,0,0,0,0,0,0,0,0
+Sergio Escudero,Escudero,ES,Granada CF,Defender,33,27,1428,2,1,0,2,0,0,0,0,0,0,1538,1197,341,9,3,3,14,22,24,6,0
+VÃ­ctor DÃ­az,VÃ­ctor DÃ­az,ES,Granada CF,Defender,34,22,1504,1,0,1,0,0,0,0,0,0,0,1772,1439,333,4,4,3,10,8,15,5,0
+Yan Eteki,Yan Eteki,CM,Granada CF,Midfielder,25,12,337,0,0,0,0,0,0,0,0,0,0,349,285,64,2,1,0,1,3,3,3,0
+Ãlex Collado,Collado,ES,Granada CF,Midfielder,23,17,1025,2,1,0,2,0,0,0,0,0,0,916,764,152,24,14,1,12,15,12,1,0
+Ãngel JimÃ©nez,Angel,ES,Granada CF,Goalkeeper,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ãngel Montoro,Montoro J.m.,ES,Granada CF,Midfielder,34,24,1329,1,1,0,0,1,0,0,0,0,0,1720,1412,308,3,0,0,16,13,13,5,0
+Aitor FernÃ¡ndez,Aitor Fdez.,ES,Levante UD,Goalkeeper,31,13,1167,0,0,0,0,0,0,0,2,1,52,732,514,218,0,0,2,0,1,1,1,1
+Alejandro Cantero,Cantero,ES,Levante UD,Forward,22,25,595,0,1,0,0,0,0,0,0,0,0,324,245,79,7,8,0,14,2,4,1,0
+Alejandro Primo,A. Primo,ES,Levante UD,Goalkeeper,18,1,90,0,0,0,0,0,0,0,0,0,1,62,52,10,0,0,0,0,0,0,0,0
+Carlos BenÃ­tez Royo,Benitez,ES,Levante UD,Midfielder,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carlos Clerc,C. Clerc,ES,Levante UD,Defender,30,19,1517,0,0,0,0,0,0,0,0,0,0,1926,1578,348,10,23,2,1,18,17,6,0
+Carlos GimÃ©nez,Carlos Gimenez,ES,Levante UD,Defender,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jorge AndÃºjar Moreno,Coke,ES,Levante UD,Defender,35,6,114,1,0,1,0,0,0,0,0,0,0,157,135,22,1,2,0,1,1,2,1,0
+Daniel GÃ³mez AlcÃ³n,Dani GÃ³mez,ES,Levante UD,Forward,24,28,1060,4,2,1,0,3,0,0,0,0,0,508,432,76,28,18,0,22,3,4,1,0
+Daniel CÃ¡rdenas,CÃ¡rdenas,ES,Levante UD,Goalkeeper,25,24,2160,0,0,0,0,0,0,0,4,0,74,1494,1040,454,0,0,5,0,0,1,3,0
+Enis Bardhi,Bardhi,MK,Levante UD,Midfielder,27,30,1700,3,3,0,1,2,2,2,0,0,0,1829,1468,361,36,38,0,25,17,12,3,0
+Enric Franquesa,Franquesa,ES,Levante UD,Midfielder,25,16,616,0,0,0,0,0,0,0,0,0,0,555,442,113,9,10,1,0,2,3,1,0
+Giorgi Kochorashvili,Giorgi,GE,Levante UD,Midfielder,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gonzalo Melero,Melero,ES,Levante UD,Midfielder,28,29,1696,7,2,1,0,6,2,2,0,0,0,2180,1947,233,14,12,0,16,13,16,5,0
+Jorge MiramÃ³n,Jorge MiramÃ³n,ES,Levante UD,Midfielder,33,29,1975,1,0,0,0,1,0,0,0,0,0,2198,1767,431,10,21,5,6,17,19,5,0
+Jorge de Frutos,De Frutos,ES,Levante UD,Midfielder,25,25,1766,4,7,1,2,1,0,0,0,0,0,1174,880,294,40,36,1,36,18,15,4,0
+JosÃ© David Ãlvarez Adsuar,Joseda,ES,Levante UD,Defender,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JosÃ© CampaÃ±a,J.g. CampaÃ±a,ES,Levante UD,Midfielder,29,20,1428,2,2,0,0,2,1,0,0,0,0,2358,2081,277,14,21,2,9,11,16,6,1
+JosÃ© Luis Morales,A. J. Morales,ES,Levante UD,Forward,35,35,2723,13,7,0,4,9,5,3,0,0,0,1820,1383,437,92,64,4,61,10,17,7,0
+JosÃ© Manuel LÃ³pez SÃ¡nchez,Jose Manuel,ES,Levante UD,Defender,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marc Pubill,Marc Pubill,ES,Levante UD,Defender,19,11,512,0,1,0,0,0,0,0,0,0,0,574,477,97,6,4,0,4,6,6,1,0
+Marcelo Saracchi,Marcelo Saracchi,UY,Levante UD,Defender,24,4,186,0,1,0,0,0,0,0,0,0,0,239,204,35,0,2,0,0,3,5,2,0
+MartÃ­n CÃ¡ceres,Martin Caceres,UY,Levante UD,Defender,35,10,669,0,0,0,0,0,0,0,0,0,0,966,839,127,0,1,1,0,0,2,2,0
+MickaÃ«l Malsa,Malsa,MQ,Levante UD,Midfielder,27,26,1135,1,2,0,0,1,0,0,0,0,0,1491,1285,206,1,7,0,7,20,17,7,0
+Nemanja Radoja,Radoja,RS,Levante UD,Midfielder,29,19,1222,0,0,0,0,0,0,0,0,0,0,1288,1140,148,5,11,2,3,17,8,3,0
+Nikola Vukcevic,Vukcevic,ME,Levante UD,Midfielder,30,6,113,0,0,0,0,0,0,0,0,0,0,205,179,26,0,1,0,1,1,2,1,0
+Omar Faraj,Faraj,SE,Levante UD,Forward,20,1,3,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,1,0,0,0
+Pablo CuÃ±at,Pablo,ES,Levante UD,Goalkeeper,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pablo PicÃ³n,Picon,ES,Levante UD,Goalkeeper,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JosÃ© GarcÃ­a,Pepelu,ES,Levante UD,Midfielder,24,29,2016,0,0,0,0,0,0,0,0,0,0,3430,2939,491,7,13,2,7,19,27,9,0
+Roberto SuÃ¡rez Pier,Rober Pier,ES,Levante UD,Defender,27,27,2008,1,0,0,1,0,0,0,0,0,0,2881,2458,423,1,5,4,6,16,20,3,1
+Roberto Soldado,Soldado,ES,Levante UD,Forward,37,18,660,3,2,0,1,2,0,0,0,0,0,372,274,98,4,3,0,16,2,1,5,2
+Roger MartÃ­,Roger Ms.,ES,Levante UD,Forward,31,29,2124,7,3,0,1,6,3,1,0,0,0,1169,888,281,14,14,1,43,9,14,8,0
+RÃºben Miguel Nunes Vezo,Ruben Vezo,PT,Levante UD,Defender,28,32,2420,0,0,0,0,0,0,0,0,0,0,3485,3071,414,3,5,4,14,12,29,4,0
+Sergio Postigo,Postigo,ES,Levante UD,Defender,34,13,849,0,0,0,0,0,0,0,0,0,0,1011,891,120,1,0,0,1,4,7,3,0
+Shkodran Mustafi,Mustafi,DE,Levante UD,Defender,30,11,658,1,0,1,0,0,0,0,0,0,0,1001,843,158,2,2,2,3,3,6,1,0
+Francisco Javier Hidalgo,Son,ES,Levante UD,Midfielder,28,26,1978,1,0,1,0,0,0,0,0,0,0,2287,1811,476,20,19,3,10,10,18,5,1
+Ã“scar Duarte,O. Duarte,CR,Levante UD,Defender,33,23,1774,2,0,2,0,0,0,0,0,0,0,2699,2383,316,1,1,2,17,10,8,5,0
+Alfonso GonzÃ¡lez MartÃ­nez,Alfonso,ES,RC Celta,Forward,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Augusto Solari,Solari,AR,RC Celta,Midfielder,30,26,698,0,0,0,0,0,0,0,0,0,0,1047,778,269,11,9,0,6,12,12,5,0
+Brais MÃ©ndez,Brais MÃ©ndez,ES,RC Celta,Midfielder,25,37,3036,4,5,0,3,1,0,0,0,0,0,4119,3509,610,36,34,8,36,33,35,8,0
+Carlos DomÃ­nguez,C. Dominguez,ES,RC Celta,Defender,21,8,341,0,0,0,0,0,0,0,0,0,0,458,390,68,0,1,2,1,3,1,1,0
+Cesar Fernandez,Cesar FernÃ¡ndez,ES,RC Celta,Goalkeeper,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jorge Carrillo Balea,Carrillo,ES,RC Celta,Goalkeeper,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DamiÃ¡n RodrÃ­guez,Damian,ES,RC Celta,Midfielder,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Denis SuÃ¡rez,Denis SuÃ¡rez,ES,RC Celta,Midfielder,28,38,2835,4,6,0,2,2,0,0,0,0,0,5427,4706,721,40,42,3,12,32,29,4,0
+Fernando Medrano,Medrano,ES,RC Celta,Defender,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francisco BeltrÃ¡n,Fran Beltran,ES,RC Celta,Midfielder,23,37,2608,1,0,0,0,1,0,0,0,0,0,5406,5067,339,8,19,6,13,15,41,4,0
+Franco Cervi,Cervi,AR,RC Celta,Forward,28,33,1804,4,3,1,2,1,0,0,0,0,0,1957,1624,333,19,20,1,19,32,41,6,0
+Gabriel Veiga,Gabri Veiga,ES,RC Celta,Midfielder,20,7,102,0,0,0,0,0,0,0,0,0,0,181,153,28,1,6,0,1,1,4,0,0
+Gaizka Campos,Gaizka,ES,RC Celta,Goalkeeper,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hugo Mallo,Hugo Mallo,ES,RC Celta,Defender,31,21,1828,1,1,0,1,0,0,0,0,0,0,2699,2195,504,8,8,7,13,20,25,3,2
+Hugo Sotelo,Hugo Sotelo,ES,RC Celta,Midfielder,18,1,1,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0
+Hugo Ãlvarez,Hugo Alvarez,ES,RC Celta,Midfielder,19,1,10,0,0,0,0,0,0,0,0,0,0,7,3,4,0,0,0,1,1,0,0,0
+Iago Aspas,Iago Aspas,ES,RC Celta,Forward,35,37,3093,18,6,0,14,4,5,3,0,0,0,3493,2795,698,32,51,6,65,7,7,8,0
+Javier GalÃ¡n Gil,Javi Galan,ES,RC Celta,Midfielder,27,37,3300,0,3,0,0,0,0,0,0,0,0,4723,3994,729,40,85,12,16,42,66,9,0
+Javier Castro,Castro,ES,RC Celta,Defender,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jeison Murillo,Murillo,CO,RC Celta,Defender,30,19,1116,0,0,0,0,0,0,0,0,0,0,1993,1842,151,0,3,4,4,5,10,5,1
+Joseph Aidoo,Aidoo Jr,GH,RC Celta,Defender,27,32,2640,0,0,0,0,0,0,0,0,0,0,4326,3746,580,2,9,8,5,13,26,1,0
+JosÃ© FontÃ¡n,Fontan,ES,RC Celta,Defender,22,9,273,0,0,0,0,0,0,0,0,0,0,553,494,59,0,1,1,1,2,3,3,0
+Kevin VÃ¡zquez,Kevin V.,ES,RC Celta,Defender,29,17,1331,0,1,0,0,0,0,0,0,0,0,1859,1537,322,5,11,3,3,10,24,3,0
+MatÃ­as Dituro,Dituro,AR,RC Celta,Goalkeeper,35,38,3420,0,0,0,0,0,0,0,8,4,96,3198,2140,1058,0,0,14,1,0,0,1,0
+Manuel Agudo DurÃ¡n,Nolito,ES,RC Celta,Forward,36,32,1382,2,0,1,1,0,0,0,0,0,0,1479,1231,248,9,13,0,16,10,15,1,0
+NÃ©stor AraÃºjo,Nestor,MX,RC Celta,Defender,31,34,2617,0,0,0,0,0,0,0,0,0,0,4380,3934,446,3,5,9,7,8,14,4,0
+OrbelÃ­n Pineda,Orbelin,MX,RC Celta,Midfielder,26,7,94,0,0,0,0,0,0,0,0,0,0,185,169,16,1,1,0,4,3,1,0,0
+Renato Tapia,Tapia,PE,RC Celta,Midfielder,27,29,1402,0,0,0,0,0,0,0,0,0,0,2352,2010,342,9,6,3,10,19,31,10,0
+RubÃ©n Blanco,Ruben Blanco,ES,RC Celta,Goalkeeper,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Santiago Mina Lorenzo,S. Mina,ES,RC Celta,Forward,26,33,2378,7,3,1,2,4,1,0,0,0,0,1694,1261,433,9,12,5,49,10,17,4,0
+Thiago Galhardo do Nascimento Rocha,Thiago Galhardo,BR,RC Celta,Forward,33,31,1132,2,2,0,0,2,0,0,0,0,0,691,496,195,12,8,1,27,6,6,5,0
+Thomas Carrique,Carrique,FR,RC Celta,Defender,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aitor Ruibal,Aitor R.,ES,Real Betis,Forward,26,19,858,0,0,0,0,0,0,0,0,0,0,840,705,135,13,13,0,13,6,15,6,0
+AndrÃ©s Guardado,A. Guardado,MX,Real Betis,Midfielder,36,28,1394,0,1,0,0,0,0,0,0,0,0,2619,2329,290,4,6,3,10,17,13,4,0
+Antonio Marchena,Marchena,ES,Real Betis,Midfielder,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Borja Iglesias,B. Iglesias,ES,Real Betis,Forward,29,33,1570,10,0,2,0,8,3,3,0,0,0,875,676,199,19,13,0,30,2,4,4,0
+Claudio Bravo,C. Bravo,CL,Real Betis,Goalkeeper,39,17,1457,0,0,0,0,0,0,0,1,0,39,1080,740,340,0,0,5,0,0,0,2,0
+Cristian Tello,C. Tello,ES,Real Betis,Forward,31,23,807,2,2,0,1,1,0,0,0,0,0,967,805,162,17,10,0,17,6,11,2,0
+Daniel Rebollo,D. Rebollo,ES,Real Betis,Goalkeeper,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Diego Lainez,Diego Lainez,MX,Real Betis,Midfielder,22,7,135,0,0,0,0,0,0,0,0,0,0,153,129,24,3,6,0,1,0,1,0,0
+Edgar GonzÃ¡lez,Edgar,ES,Real Betis,Midfielder,25,21,1457,1,1,0,0,1,0,0,0,0,0,2590,2373,217,0,4,4,5,6,19,6,0
+Francisco Delgado,F. Delgado,ES,Real Betis,Defender,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GermÃ¡n Pezzella,Pezzella,AR,Real Betis,Defender,31,23,1991,1,0,1,0,0,0,0,0,0,0,2907,2649,258,0,3,8,17,12,9,5,1
+Guido RodrÃ­guez,G. Rodriguez,AR,Real Betis,Midfielder,28,32,2533,1,2,1,0,0,0,0,0,0,0,4096,3675,421,9,18,9,13,44,53,7,1
+HÃ©ctor BellerÃ­n,Bellerin,ES,Real Betis,Defender,27,23,1979,0,2,0,0,0,0,0,0,0,0,2307,1913,394,20,22,8,6,20,32,2,1
+JoaquÃ­n SÃ¡nchez RodrÃ­guez,JoaquÃ­n,ES,Real Betis,Forward,41,21,455,0,1,0,0,0,0,0,0,0,0,686,590,96,13,17,0,7,4,2,0,0
+Joel Robles,Joel Robles,ES,Real Betis,Goalkeeper,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juan Miranda,Miranda,ES,Real Betis,Defender,22,13,782,0,2,0,0,0,0,0,0,0,0,1102,917,185,5,4,3,5,10,11,3,0
+Juan Miguel JimÃ©nez LÃ³pez,Juanmi,ES,Real Betis,Forward,29,33,2145,16,4,3,3,10,0,0,0,0,0,1336,1123,213,15,29,1,47,14,25,5,0
+Enrique GÃ³mez Hermoso,K. Hermoso,ES,Real Betis,Midfielder,23,1,90,1,0,0,0,1,0,0,0,0,0,169,149,20,0,1,0,2,1,1,0,0
+Marc Bartra,Bartra,ES,Real Betis,Defender,31,23,1994,1,0,0,0,0,0,0,0,0,0,3136,2742,394,1,7,8,14,25,14,5,0
+MartÃ­n Montoya,Montoya,ES,Real Betis,Defender,31,6,519,0,1,0,0,0,0,0,0,0,0,760,656,104,1,0,0,4,8,12,2,0
+Nabil Fekir,Fekir,FR,Real Betis,Forward,29,34,2807,6,8,0,5,1,0,0,0,0,0,3859,3388,471,41,82,2,55,14,29,7,1
+Paul Akouokou,Paul,CI,Real Betis,Midfielder,24,8,517,0,0,0,0,0,0,0,0,0,0,926,846,80,2,6,2,2,5,9,2,1
+RaÃºl GarcÃ­a,Raul,ES,Real Betis,Forward,22,1,1,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0
+Rodrigo SÃ¡nchez,Rodri,ES,Real Betis,Midfielder,22,21,880,1,2,0,1,0,0,0,0,0,0,1147,1000,147,10,16,0,13,3,7,0,0
+Rui Tiago Dantas da Silva,Rui Silva,PT,Real Betis,Goalkeeper,28,22,1963,0,0,0,0,0,0,0,2,0,55,1497,1081,416,0,0,8,0,1,0,2,0
+Sergio Canales,Canales,ES,Real Betis,Midfielder,31,34,2803,5,7,0,5,0,0,0,0,0,0,5118,4530,588,28,29,6,40,10,14,7,0
+VÃ­ctor Camarasa,Camarasa,ES,Real Betis,Midfielder,28,7,102,0,0,0,0,0,0,0,0,0,0,141,123,18,1,0,0,1,1,1,0,0
+VÃ­ctor Ruiz,Victor Ruiz,ES,Real Betis,Defender,33,18,1425,0,0,0,0,0,0,0,0,0,0,2527,2295,232,1,1,4,5,2,9,2,0
+William Silva de Carvalho,William,PT,Real Betis,Midfielder,30,33,1803,2,3,0,1,1,0,0,0,0,0,3760,3443,317,22,48,3,21,16,33,6,0
+Willian JosÃ© Da Silva,Willian J.,BR,Real Betis,Forward,30,32,1610,8,4,0,3,5,3,3,0,0,0,1446,1211,235,10,6,1,24,2,13,1,0
+Youssouf Sabaly,Sabaly,SN,Real Betis,Defender,29,10,789,0,1,0,0,0,0,0,0,0,0,1178,1037,141,7,6,4,4,2,10,1,0
+Alexandre Moreno Lopera,Alex Moreno,ES,Real Betis,Forward,29,30,2407,5,3,1,2,2,0,0,0,0,0,2960,2391,569,38,23,7,19,36,40,3,1
+Andrii Lunin,Lunin,UA,Real Madrid,Goalkeeper,23,2,180,0,0,0,0,0,0,0,2,1,7,171,151,20,0,0,0,0,0,0,0,0
+Antonio Blanco,Blanco,ES,Real Madrid,Midfielder,22,1,30,0,0,0,0,0,0,0,0,0,0,58,54,4,0,1,0,0,2,0,0,0
+Carlos Henrique Casimiro,Casemiro,BR,Real Madrid,Midfielder,30,32,2575,1,3,1,0,0,0,0,0,0,0,5581,5020,561,8,19,8,28,28,51,11,0
+Dani Ceballos,D. Ceballos,ES,Real Madrid,Midfielder,26,11,267,0,0,0,0,0,0,0,0,0,0,756,713,43,6,5,1,6,2,5,1,0
+Daniel Carvajal,Carvajal,ES,Real Madrid,Defender,30,24,1549,1,3,0,0,1,0,0,0,0,0,2919,2634,285,8,10,6,8,15,28,1,0
+David Alaba,Alaba,AT,Real Madrid,Defender,30,30,2644,2,3,0,2,0,0,0,0,0,0,5533,5221,312,6,4,11,14,10,13,2,0
+Diego PiÃ±eiro del Ãlamo,Diego PiÃ±eiro,ES,Real Madrid,Goalkeeper,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eden Hazard,Hazard,BE,Real Madrid,Forward,31,18,713,0,1,0,0,0,0,0,0,0,0,1126,1046,80,6,25,1,9,3,3,2,0
+Ã‰der Gabriel MilitÃ£o,E. MilitÃ£o,BR,Real Madrid,Defender,24,34,3033,1,2,1,0,0,0,0,0,0,0,5681,5243,438,9,11,13,26,18,32,5,0
+Eduardo Camavinga,Camavinga,FR,Real Madrid,Midfielder,20,26,1229,2,1,0,2,0,0,0,0,0,0,2429,2259,170,10,22,2,10,17,35,9,0
+Federico Valverde,Valverde,UY,Real Madrid,Midfielder,24,31,1832,0,1,0,0,0,0,0,0,0,0,3336,3080,256,18,32,4,28,20,16,2,0
+Ferland Mendy,F. Mendy,FR,Real Madrid,Defender,27,22,1738,2,1,0,1,1,0,0,0,0,0,3479,3265,214,17,35,5,9,10,14,4,0
+Gareth Bale,Bale,GB-WLS,Real Madrid,Forward,33,5,283,1,0,0,1,0,0,0,0,0,0,164,131,33,3,1,0,13,1,1,2,0
+Francisco RomÃ¡n AlarcÃ³n SuÃ¡rez,Isco,ES,Real Madrid,Midfielder,30,14,323,1,0,0,0,1,0,0,0,0,0,751,697,54,8,17,0,5,4,5,1,0
+JesÃºs Vallejo,Vallejo,ES,Real Madrid,Defender,25,5,342,0,0,0,0,0,0,0,0,0,0,594,537,57,2,2,2,0,2,5,1,0
+Juan Miguel Latasa,Latasa,ES,Real Madrid,Forward,21,1,9,0,0,0,0,0,0,0,0,0,0,14,12,2,0,0,0,1,0,0,0,0
+Karim Benzema,Benzema,FR,Real Madrid,Forward,34,32,2596,27,12,3,3,20,11,7,0,0,0,3435,3065,370,15,36,8,99,2,9,0,0
+Lucas VÃ¡zquez,Lucas V.,ES,Real Madrid,Forward,31,29,1835,3,0,0,2,1,0,0,0,0,0,3935,3591,344,13,18,4,13,21,22,3,0
+Luis Federico LÃ³pez AndÃºgar,Luis LÃ³pez,ES,Real Madrid,Goalkeeper,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Luka Jovic,JoviÄ‡,RS,Real Madrid,Forward,24,15,359,1,3,1,0,0,0,0,0,0,0,183,153,30,3,3,0,11,0,1,1,0
+Luka Modric,ModriÄ‡,HR,Real Madrid,Midfielder,37,28,2049,2,8,0,1,1,1,1,0,0,0,4729,4368,361,16,32,2,15,8,10,5,0
+Marcelo Vieira Da Silva Junior,Marcelo,BR,Real Madrid,Defender,34,12,521,0,2,0,0,0,0,0,0,0,0,1167,1030,137,1,9,2,5,4,4,0,0
+Marco Asensio,Asensio,ES,Real Madrid,Midfielder,26,31,1728,10,0,0,8,2,0,0,0,0,0,2350,2094,256,13,27,2,48,4,8,2,0
+Mariano DÃ­az MejÃ­a,Mariano,DO,Real Madrid,Forward,29,9,339,1,1,0,1,0,0,0,0,0,0,156,119,37,4,6,0,12,2,0,2,0
+Mario Gila,Gila,ES,Real Madrid,Defender,22,2,23,0,0,0,0,0,0,0,0,0,0,62,56,6,0,1,0,0,1,0,0,0
+Miguel GutiÃ©rrez,Gutierrez,ES,Real Madrid,Defender,21,3,262,0,1,0,0,0,0,0,0,0,0,449,424,25,3,6,0,0,2,5,1,0
+Jose Ignacio Fernandez Iglesias,Nacho,ES,Real Madrid,Defender,32,28,1549,3,0,0,0,3,0,0,0,0,0,2886,2739,147,2,2,4,7,4,14,7,0
+Peter Federico Gonzalez Carmona,Peter,ES,Real Madrid,Midfielder,20,3,24,0,0,0,0,0,0,0,0,0,0,46,39,7,0,1,0,2,0,0,0,0
+Rafael MarÃ­n Zamora,Rafa Marin,ES,Real Madrid,Defender,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rodrygo Silva de Goes,Rodrygo,BR,Real Madrid,Forward,21,33,1527,4,4,0,0,4,0,0,0,0,0,1815,1608,207,31,27,1,27,4,14,3,0
+Sergio Santos,Santos,ES,Real Madrid,Defender,21,1,10,0,0,0,0,0,0,0,0,0,0,19,19,0,0,0,0,0,0,0,0,0
+Thibaut Courtois,Courtois,BE,Real Madrid,Goalkeeper,30,36,3240,0,0,0,0,0,0,0,3,1,93,2456,2062,394,0,0,16,0,1,0,1,0
+Toni Fuidias,Fuidias,ES,Real Madrid,Goalkeeper,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toni Kroos,Kroos,DE,Real Madrid,Midfielder,32,28,2108,1,3,0,0,1,0,0,0,0,0,6320,6034,286,8,9,7,35,8,26,4,0
+Vinicius JosÃ© PaixÃ£o de Oliveira JÃºnior,Vini Jr.,BR,Real Madrid,Forward,22,35,2699,17,10,2,5,10,0,0,0,0,0,3549,3167,382,114,95,8,62,22,24,6,0
+Adnan Januzaj,Januzaj,BE,Real Sociedad,Midfielder,27,33,1625,3,0,0,2,1,2,2,0,0,0,1740,1344,396,33,46,0,25,6,11,5,0
+Aihen MuÃ±oz,Aihen,ES,Real Sociedad,Defender,25,20,1344,0,0,0,0,0,0,0,0,0,0,1670,1384,286,14,14,4,4,11,17,2,1
+Alexander Isak,Isak,SE,Real Sociedad,Forward,23,32,2155,6,2,0,1,5,2,2,0,0,0,1126,898,228,44,44,1,54,3,4,6,0
+Alexander SÃ¸rloth,SÃ¸rloth,NO,Real Sociedad,Forward,26,33,1760,4,0,1,3,0,0,0,0,0,0,1206,961,245,28,38,5,26,13,7,2,0
+Ander Barrenetxea,Barrenetxea,ES,Real Sociedad,Forward,20,11,548,1,1,0,0,1,0,0,0,0,0,489,387,102,22,15,0,7,5,10,0,0
+Ander Guevara,Guevara,ES,Real Sociedad,Midfielder,25,17,870,0,0,0,0,0,0,0,0,0,0,1726,1562,164,1,3,2,2,5,13,2,0
+Ander MartÃ­n,Martin,ES,Real Sociedad,Forward,21,5,85,0,0,0,0,0,0,0,0,0,0,123,101,22,3,1,0,2,1,0,0,0
+Andoni Gorosabel,Gorosabel,ES,Real Sociedad,Defender,26,32,2296,0,4,0,0,0,0,0,0,0,0,3284,2893,391,16,18,6,5,16,31,4,0
+Aritz Elustondo,Aritz,ES,Real Sociedad,Defender,28,30,2102,4,1,0,0,3,0,0,0,0,0,3198,2825,373,1,6,12,10,7,14,3,1
+Asier Illarramendi,Illarra,ES,Real Sociedad,Midfielder,32,8,377,0,0,0,0,0,0,0,0,0,0,821,745,76,4,3,0,0,4,5,1,0
+Cristo Romero,Romero,ES,Real Sociedad,Defender,22,1,16,0,0,0,0,0,0,0,0,0,0,22,20,2,2,0,0,1,0,0,0,0
+David Silva,Silva,ES,Real Sociedad,Midfielder,36,25,1731,2,4,1,1,0,0,0,0,0,0,2945,2687,258,15,29,3,16,11,17,4,1
+Diego Rico,Rico,ES,Real Sociedad,Defender,29,21,1646,0,0,0,0,0,0,0,0,0,0,2401,1941,460,17,12,7,7,21,20,4,0
+GermÃ¡n Valera,Valera,ES,Real Sociedad,Forward,20,3,49,0,0,0,0,0,0,0,0,0,0,49,42,7,5,2,0,0,1,2,0,0
+Igor Zubeldia,Zubeldia,ES,Real Sociedad,Midfielder,25,26,1648,0,1,0,0,0,0,0,0,0,0,2951,2692,259,3,3,3,7,10,10,7,0
+Jon Guridi,Guridi,ES,Real Sociedad,Midfielder,27,8,200,1,0,1,0,0,0,0,0,0,0,216,171,45,4,5,0,2,2,3,0,0
+Jon Karrikaburu,Karrikaburu,ES,Real Sociedad,Forward,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jonathan GÃ³mez,Gomez,MX,Real Sociedad,Defender,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Joseba Zaldua,Zaldua,ES,Real Sociedad,Defender,30,24,1170,0,0,0,0,0,0,0,0,0,0,1304,1086,218,5,3,4,5,9,22,6,0
+Julen Lobete,Lobete,ES,Real Sociedad,Forward,22,13,276,2,0,0,1,1,0,0,0,0,0,148,126,22,6,3,1,6,1,3,0,0
+MartÃ­n Zubimendi,Zubimendi,ES,Real Sociedad,Midfielder,23,36,2585,2,1,1,0,1,0,0,0,0,0,4126,3708,418,7,17,12,18,27,25,4,0
+Mathew Ryan,Ryan,AU,Real Sociedad,Goalkeeper,30,3,270,0,0,0,0,0,0,0,1,0,10,217,137,80,0,0,1,0,0,0,0,0
+Mikel Merino,Merino,ES,Real Sociedad,Midfielder,26,34,2894,3,2,0,2,1,0,0,0,0,0,4796,4006,790,19,28,14,33,33,38,8,0
+Mikel Oyarzabal,Oyarzabal,ES,Real Sociedad,Forward,25,22,1673,9,3,2,6,1,5,4,0,0,0,1501,1159,342,21,22,5,29,8,10,0,1
+Cristian PortuguÃ©s Manzanera,Portu,ES,Real Sociedad,Midfielder,30,37,1586,1,2,0,0,1,1,1,0,0,0,1243,1011,232,9,9,1,16,9,7,5,0
+Rafael AlcÃ¡ntara do Nascimento,Rafael,BR,Real Sociedad,Midfielder,29,17,1060,1,0,0,1,0,0,0,0,0,0,1887,1720,167,18,18,0,11,16,27,3,0
+Robin Le Normand,Le Normand,FR,Real Sociedad,Defender,26,37,3330,1,1,1,0,0,0,0,0,0,0,6136,5619,517,2,1,19,13,17,32,7,0
+Alejandro Remiro Gargallo,A. Remiro,ES,Real Sociedad,Goalkeeper,27,35,3150,0,0,0,0,0,0,0,5,1,80,2852,2244,608,0,0,19,0,0,0,1,0
+Alberto Flores,Alberto F.,ES,Sevilla FC,Goalkeeper,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alfonso Pastor,Alfonso P.,ES,Sevilla FC,Goalkeeper,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Anthony Martial,Martial,FR,Sevilla FC,Forward,26,9,495,0,1,0,0,0,0,0,0,0,0,429,376,53,9,7,0,6,1,1,1,0
+Antonio Zarzana,Zarzana,ES,Sevilla FC,Forward,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erik Lamela,E. Lamela,AR,Sevilla FC,Midfielder,30,20,1014,5,2,0,4,1,0,0,0,0,0,1350,1211,139,16,18,1,18,13,18,5,0
+Fernando Francisco Reges,Fernando,BR,Sevilla FC,Midfielder,35,24,1850,1,1,0,0,1,0,0,0,0,0,3570,3301,269,4,7,7,4,7,17,6,0
+Gonzalo Montiel,G. Montiel,AR,Sevilla FC,Defender,25,18,1068,1,2,0,0,1,0,0,0,0,0,1577,1311,266,5,3,4,5,11,4,7,0
+Ivan Rakitic,I. Rakitic,HR,Sevilla FC,Midfielder,34,35,2185,4,6,0,0,4,2,1,0,0,0,4463,3969,494,13,8,4,25,18,22,5,0
+IvÃ¡n Romero,IvÃ¡n,ES,Sevilla FC,Forward,21,5,178,0,0,0,0,0,0,0,0,0,0,92,80,12,6,3,0,1,0,2,0,0
+Javier DÃ­az,Javi Diaz,ES,Sevilla FC,Goalkeeper,25,1,90,0,0,0,0,0,0,0,0,0,1,85,73,12,0,0,0,0,0,0,0,0
+JesÃºs Corona,Tecatito,MX,Sevilla FC,Forward,29,18,1161,2,4,1,1,0,0,0,0,0,0,1510,1286,224,25,19,1,10,5,7,2,0
+JesÃºs Navas,J. Navas,ES,Sevilla FC,Defender,36,25,1788,0,3,0,0,0,0,0,0,0,0,3202,2699,503,9,6,8,8,5,13,4,0
+Joan JordÃ¡n,JordÃ¡n,ES,Sevilla FC,Midfielder,28,36,2527,0,1,0,0,0,0,0,0,0,0,5154,4723,431,14,23,6,11,31,30,9,0
+JosÃ© Ãngel Carmona,Carmona,ES,Sevilla FC,Defender,20,1,23,0,0,0,0,0,0,0,0,0,0,23,17,6,0,1,0,0,0,0,0,0
+Juan Luis SÃ¡nchez Velasco,Juanlu,ES,Sevilla FC,Defender,19,1,4,0,0,0,0,0,0,0,0,0,0,10,6,4,0,0,0,0,1,0,1,0
+Jules KoundÃ©,Kounde,FR,Sevilla FC,Defender,24,32,2737,2,1,1,0,1,0,0,0,0,0,6034,5553,481,15,24,13,10,23,17,2,2
+Karim Rekik,K. Rekik,NL,Sevilla FC,Defender,27,18,1094,0,2,0,0,0,0,0,0,0,0,2127,1983,144,3,5,3,4,3,8,2,0
+Enrique JesÃºs Salas Valiente,Kike Salas,ES,Sevilla FC,Defender,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucas Ocampos,L. Ocampos,AR,Sevilla FC,Forward,28,30,2124,6,4,1,2,3,0,0,0,0,0,2102,1798,304,58,37,5,41,21,24,7,0
+Ludwig Augustinsson,Augustinsson,SE,Sevilla FC,Defender,28,19,789,0,1,0,0,0,0,0,0,0,0,1239,1074,165,0,2,2,3,4,14,3,0
+Luis Miguel Cruz HernÃ¡ndez,Luismi Cruz,ES,Sevilla FC,Forward,21,2,12,0,0,0,0,0,0,0,0,0,0,14,6,8,0,1,0,0,0,0,0,0
+Marcos AcuÃ±a,AcuÃ±a,AR,Sevilla FC,Defender,31,31,2264,1,3,0,1,0,0,0,0,0,0,4533,3911,622,22,44,10,10,21,29,10,0
+Marko Dmitrovic,Dmitrovic,RS,Sevilla FC,Goalkeeper,30,6,540,0,0,0,0,0,0,0,0,0,15,517,441,76,0,0,4,0,0,0,1,0
+Munir El-Haddadi,Munir,MA,Sevilla FC,Forward,27,16,468,2,0,0,2,0,0,0,0,0,0,352,296,56,6,2,0,9,4,4,3,0
+Ignacio Quintana Navarro,N. Quintana,ES,Sevilla FC,Midfielder,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nemanja Gudelj,Gudelj,RS,Sevilla FC,Midfielder,30,21,1040,0,0,0,0,0,0,0,0,0,0,1926,1782,144,0,0,4,4,9,7,5,0
+Pablo PÃ©rez,Pablo P.,ES,Sevilla FC,Defender,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alejandro GÃ³mez,Papu Gomez,AR,Sevilla FC,Midfielder,34,29,1787,5,1,0,1,4,0,0,0,0,0,2632,2397,235,26,28,3,24,8,11,4,0
+Pedro Ortiz,P. Ortiz,ES,Sevilla FC,Defender,22,1,6,0,0,0,0,0,0,0,0,0,0,42,42,0,0,0,0,1,0,0,0,0
+Rafael Mir Vicente,Rafa Mir,ES,Sevilla FC,Forward,25,34,1801,10,0,2,2,6,0,0,0,0,0,888,659,229,11,12,2,52,1,3,6,0
+JesÃºs FernÃ¡ndez Saez,Suso,ES,Sevilla FC,Forward,28,8,388,0,1,0,0,0,0,0,0,0,0,478,402,76,5,7,0,3,1,3,0,0
+Thomas Delaney,Delaney,DK,Sevilla FC,Midfielder,31,26,1544,2,1,0,2,0,0,0,0,0,0,2192,1837,355,3,6,3,12,17,24,2,1
+Valentino Fattore,Valentino,ES,Sevilla FC,Defender,21,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yassine Bounou,Bono,MA,Sevilla FC,Goalkeeper,31,31,2790,0,2,0,0,0,0,0,4,1,76,2394,1898,496,0,1,13,0,0,0,2,0
+Youssef En-Nesyri,Y. En-Nesyri,MA,Sevilla FC,Forward,25,23,1279,5,1,3,2,0,1,1,0,0,0,475,348,127,10,4,1,34,5,5,1,0
+Ã“liver Torres,Oliver T.,ES,Sevilla FC,Midfielder,28,26,1006,2,3,0,0,2,0,0,0,0,0,1750,1510,240,11,15,0,10,10,12,2,0
+Alessandro Burlamaqui,Burlamaqui,PE,Valencia CF,Midfielder,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bryan Gil,Bryan,ES,Valencia CF,Forward,21,13,755,0,1,0,0,0,0,0,0,0,0,566,433,133,18,17,1,7,5,8,3,0
+Carlos Soler,C.soler,ES,Valencia CF,Midfielder,25,32,2480,11,5,1,0,10,7,7,0,0,0,2345,1819,526,19,19,6,36,10,19,4,0
+Carlos Manuel PÃ©rez SÃ¡nchez,Charly,ES,Valencia CF,Goalkeeper,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cristhian Mosquera,Cristhian,ES,Valencia CF,Defender,18,6,209,0,0,0,0,0,0,0,0,0,0,214,192,22,0,0,0,1,2,2,1,0
+CÃ©sar TÃ¡rrega,C. TÃ¡rrega,ES,Valencia CF,Defender,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Denis Cheryshev,Cheryshev,RU,Valencia CF,Forward,31,17,555,0,1,0,0,0,0,0,0,0,0,400,292,108,5,6,0,7,9,5,1,0
+Diego LÃ³pez,Diego LÃ³pez,ES,Valencia CF,Forward,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dimitri Foulquier,Foulquier,GP,Valencia CF,Defender,29,29,2339,0,1,0,0,0,0,0,0,0,0,1992,1469,523,10,23,9,14,19,17,11,0
+Eray CÃ¶mert,CÃ¶mert,CH,Valencia CF,Defender,24,8,408,0,0,0,0,0,0,0,0,0,0,562,500,62,0,0,0,3,2,3,2,0
+Gabriel Armando de Abreu,G.paulista,BR,Valencia CF,Defender,31,19,1596,2,1,0,0,2,0,0,0,0,0,1711,1427,284,1,1,7,6,9,12,2,0
+Giorgi Mamardashvili,Mamardashvili,GE,Valencia CF,Goalkeeper,22,18,1620,0,0,0,0,0,0,0,2,0,55,961,541,420,0,0,8,0,0,0,2,0
+GonÃ§alo Manuel Ganchinho Guedes,Guedes,PT,Valencia CF,Midfielder,25,36,2613,11,6,3,2,6,2,1,0,0,0,2061,1519,542,60,64,2,50,7,14,3,0
+Hugo Duro,Hugo Duro,ES,Valencia CF,Forward,23,30,1844,7,1,2,3,2,0,0,0,0,0,1008,787,221,12,13,1,26,6,19,2,1
+Hugo Gonzalez,Hugo GonzÃ¡lez,ES,Valencia CF,Midfielder,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hugo GuillamÃ³n,Hugo G.,ES,Valencia CF,Defender,22,31,2366,1,0,0,0,1,0,0,0,0,0,2996,2561,435,6,10,3,5,16,27,8,2
+HÃ©lder Wander Sousa de Azevedo e Costa,HÃ©lder Costa,AO,Valencia CF,Midfielder,28,22,1117,0,1,0,0,0,0,0,0,0,0,718,538,180,35,23,2,6,11,16,3,0
+Moriba Kourouma Kourouma,Ilaix,GN,Valencia CF,Midfielder,19,14,817,0,0,0,0,0,0,0,0,0,0,769,639,130,7,7,1,10,8,18,7,1
+Jasper Cillessen,Cillessen,NL,Valencia CF,Goalkeeper,33,17,1458,0,1,0,0,0,0,0,6,1,50,890,598,292,0,0,3,0,0,0,1,0
+Jaume DomÃ©nech,Domenech,ES,Valencia CF,Goalkeeper,32,4,342,0,0,0,0,0,0,0,0,0,8,229,145,84,0,0,1,0,0,0,2,0
+Javier Guerra,Javi Guerra,ES,Valencia CF,Midfielder,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JesÃºs VÃ¡zquez,J. VÃ¡zquez,ES,Valencia CF,Defender,19,15,812,0,0,0,0,0,0,0,0,0,0,664,515,149,9,25,2,3,11,13,0,0
+JosÃ© David Menargues Manzanares,Joseda,ES,Valencia CF,Defender,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JosÃ© GayÃ ,GayÃ ,ES,Valencia CF,Defender,27,24,1874,2,4,0,2,0,0,0,0,0,0,1789,1416,373,13,16,5,17,14,21,7,2
+Koba Koindredi,K.koba LeÃ¯n,FR,Valencia CF,Midfielder,21,10,175,0,0,0,0,0,0,0,0,0,0,120,90,30,1,2,0,1,1,3,1,0
+Lassina Sangare,S. Lassina,CI,Valencia CF,Midfielder,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marcos AndrÃ© de Sousa MendonÃ§a,Marcos Andre,BR,Valencia CF,Forward,26,29,961,1,3,0,0,1,0,0,0,0,0,469,354,115,19,14,0,25,4,11,3,0
+Mario Dominguez,Mario,ES,Valencia CF,Forward,18,2,23,0,0,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,0,0,0
+Maximiliano GÃ³mez,M. GÃ³mez,UY,Valencia CF,Forward,26,29,1960,5,1,1,0,3,0,0,0,0,0,1028,741,287,13,5,4,29,2,3,5,1
+Mouctar Diakhaby,Diakhaby,GN,Valencia CF,Defender,25,29,1945,0,1,0,0,0,0,0,0,0,0,1950,1582,368,6,13,5,6,11,24,11,0
+Omar Alderete,Omar Alderete,PY,Valencia CF,Defender,25,29,2411,2,0,2,0,0,0,0,0,0,0,2447,1699,748,1,13,7,17,19,34,15,0
+Pedro AlemaÃ±,P. AlemaÃ±,ES,Valencia CF,Midfielder,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RubÃ©n Iranzo,R. Iranzo,ES,Valencia CF,Defender,19,4,134,0,0,0,0,0,0,0,0,0,0,131,113,18,0,0,0,1,0,3,2,0
+Thierry Rendall Correia,Thierry R.,PT,Valencia CF,Defender,23,19,1424,0,1,0,0,0,0,0,0,0,0,1336,1011,325,11,11,5,2,12,23,5,0
+Antonio Latorre,Lato,ES,Valencia CF,Defender,24,11,591,0,1,0,0,0,0,0,0,0,0,658,533,125,0,8,1,0,5,12,5,0
+Uros Racic,RaÄiÄ‡,RS,Valencia CF,Midfielder,24,28,1198,0,0,0,0,0,0,0,0,0,0,1361,1094,267,4,14,0,11,14,18,1,1
+Yunus Musah,Musah,US,Valencia CF,Midfielder,19,29,1259,1,0,0,0,1,0,0,0,0,0,964,785,179,28,36,0,4,10,13,5,0
+AdriÃ¡n De la Fuente,De La Fuente,ES,Villarreal CF,Defender,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alberto Moreno,Alberto M.,ES,Villarreal CF,Defender,30,24,1222,3,2,0,3,0,0,0,0,0,0,1560,1373,187,7,10,3,14,6,7,3,0
+Alfonso Pedraza,A. Pedraza,ES,Villarreal CF,Forward,26,28,1703,4,4,1,2,1,0,0,0,0,0,2123,1704,419,30,31,3,18,18,16,2,0
+Antonio Pacheco,Pacheco,ES,Villarreal CF,Midfielder,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arnaut Danjuma,Danjuma,NL,Villarreal CF,Midfielder,25,23,1477,10,3,0,4,6,3,3,0,0,0,975,795,180,28,33,0,47,1,6,2,0
+AÃ¯ssa Mandi,Mandi,DZ,Villarreal CF,Defender,31,17,1374,1,0,1,0,0,0,0,0,0,0,2861,2723,138,0,0,5,9,6,5,3,0
+Boulaye Dia,Dia,SN,Villarreal CF,Forward,25,25,1266,5,5,1,1,3,0,0,0,0,0,677,552,125,10,11,2,22,2,6,3,0
+Carlo GarcÃ­a,Carlo Adriano,ES,Villarreal CF,Midfielder,21,1,6,0,0,0,0,0,0,0,0,0,0,12,12,0,0,0,0,0,0,0,0,0
+Daniel Parejo,Parejo,ES,Villarreal CF,Midfielder,33,33,2708,2,10,0,1,1,1,1,0,0,0,5746,5163,583,8,25,7,11,14,29,3,0
+Etienne Capoue,Capoue,FR,Villarreal CF,Midfielder,34,30,2295,1,1,0,0,1,0,0,0,0,0,3766,3456,310,14,41,6,11,18,26,9,0
+Filip JÃ¶rgensen,JÃ¶rgensen,DK,Villarreal CF,Goalkeeper,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francis Coquelin,Coquelin,FR,Villarreal CF,Midfielder,31,20,826,2,1,0,0,2,0,0,0,0,0,1349,1216,133,3,17,0,4,9,17,3,0
+Gerard Moreno,Gerard,ES,Villarreal CF,Forward,30,17,1194,9,3,2,7,0,2,1,0,0,0,1169,897,272,22,39,2,29,3,2,2,0
+GerÃ³nimo Rulli,Rulli,AR,Villarreal CF,Goalkeeper,30,32,2880,0,0,0,0,0,0,0,4,1,75,2907,2439,468,0,1,14,0,0,0,2,0
+Iker Ãlvarez de Eulate Molne,Iker Alvarez,AD,Villarreal CF,Goalkeeper,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juan Carlos Arana GÃ³mez,Arana,ES,Villarreal CF,Forward,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Juan Foyth,Foyth,AR,Villarreal CF,Defender,24,25,1932,1,1,1,0,0,0,0,0,0,0,2760,2446,314,12,28,4,5,20,49,4,1
+JosÃ© Manuel Cabrera,Lanchi,ES,Villarreal CF,Defender,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manuel Trigueros MuÃ±oz,M. Trigueros,ES,Villarreal CF,Midfielder,31,35,2191,6,4,0,1,5,0,0,0,0,0,3319,2835,484,7,8,2,31,20,25,3,0
+Mario Gaspar PÃ©rez MartÃ­nez,Mario Gaspar,ES,Villarreal CF,Defender,31,12,621,0,0,0,0,0,0,0,0,0,0,855,725,130,1,3,2,1,6,4,1,0
+MoisÃ©s GÃ³mez Bardonado,Moi GÃ³mez,ES,Villarreal CF,Midfielder,28,29,1277,2,2,0,1,1,0,0,0,0,0,1593,1379,214,9,13,1,8,8,7,2,0
+Nicolas Jackson,N.jackson,SN,Villarreal CF,Forward,21,9,158,0,0,0,0,0,0,0,0,0,0,137,112,25,2,4,0,3,2,0,1,0
+Nikita Iosifov,Nikita,RU,Villarreal CF,Midfielder,21,1,1,0,0,0,0,0,0,0,0,0,0,8,6,2,0,1,0,0,0,0,0,0
+Francisco AlcÃ¡cer,Paco AlcÃ¡cer,ES,Villarreal CF,Forward,29,18,790,1,3,0,1,0,0,0,0,0,0,442,343,99,5,5,0,15,6,3,1,0
+Pau Torres,Pau,ES,Villarreal CF,Defender,25,33,2856,5,1,2,3,0,0,0,0,0,0,5576,5008,568,3,25,11,20,13,19,5,0
+Pervis EstupiÃ±Ã¡n,EstupiÃ±Ã¡n,EC,Villarreal CF,Defender,24,28,1574,0,1,0,0,0,0,0,0,0,0,2382,2017,365,18,17,4,11,14,22,3,0
+RaÃºl Albiol,R. Albiol,ES,Villarreal CF,Defender,37,28,2466,0,0,0,0,0,0,0,0,0,0,4404,3967,437,1,3,11,5,11,15,8,0
+RubÃ©n PeÃ±a,R. PeÃ±a,ES,Villarreal CF,Forward,31,7,127,0,0,0,0,0,0,0,0,0,0,129,107,22,3,2,0,3,2,0,1,0
+Samuel Chukwueze,Chukwueze,NG,Villarreal CF,Midfielder,23,27,1329,3,3,0,3,0,0,0,0,0,0,1226,994,232,59,67,1,23,4,9,4,0
+Serge Aurier,Serge Aurier,CI,Villarreal CF,Defender,29,19,1003,0,1,0,0,0,0,0,0,0,0,1815,1617,198,5,14,3,7,5,9,4,0
+Vicente Iborra,Iborra,ES,Villarreal CF,Midfielder,34,20,1031,0,1,0,0,0,0,0,0,0,0,1803,1623,180,2,2,4,6,9,10,4,0
+Yeremi Pino,Yeremy,ES,Villarreal CF,Forward,20,31,1685,6,4,1,1,4,0,0,0,0,0,1439,1212,227,31,25,0,24,18,14,2,0
